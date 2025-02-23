@@ -1,5 +1,5 @@
 # Todo Project
-## _The Last Markdown Editor, Ever_
+
 
 The todo project is a simple task management application that allows users to add and delete tasks. It is implemented using HTML, CSS, and JavaScript. The project is structured as follows:
 
