@@ -1,2 +1,18 @@
-# Simple-Todo-List
-A simple todo app built with HTML, CSS, and JavaScript. Features include adding tasks by pressing "Enter" and deleting tasks with a "Delete" button. Project files: index.html (structure), style.css (styling), and script.js (functionality). Clone the repo, open index.html, and start managing tasks!
+Todo Project
+The todo project is a simple task management application that allows users to add and delete tasks. It is implemented using HTML, CSS, and JavaScript. The project is structured as follows:
+
+Files and Directories
+style.css: Contains the styling for the todo application, including the layout and design of the task list and form elements.
+script.js: Contains the JavaScript code that handles the functionality of the todo application, such as adding new tasks and deleting existing ones.
+Features
+Add Task: Users can add new tasks to the list by entering the task description in the input field and pressing the "Enter" key.
+Delete Task: Each task in the list has a "Delete" button that allows users to remove the task from the list.
+Code Overview
+addtask function: Creates a new task element and appends it to the task list. It also sets up the delete button for the new task.
+deleteTask function: Creates a delete button for a task and sets up its click event to remove the task from the list.
+Event Listener: Listens for the "Enter" key press on the input field to trigger the addtask function.
+Example Usage
+Open the index.html file in a web browser.
+Enter a task description in the input field.
+Press the "Enter" key to add the task to the list.
+Click the "Delete" button next to a task to remove it from the list.
